@@ -109,6 +109,15 @@ img.imgawe {
     max-width: 600px;
 }
 
+img.gitimg {
+    max-height: 30px;
+    padding: 3px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    border: 0px;
+    border-radius: 0;
+}
+
 .quote {
     background-color: #e5e7eb;
     color: #1f2937;
@@ -166,12 +175,7 @@ h4 {
     margin-top: 0;
 }
 
-.gitimg {
-    max-height: 30px;
-    padding: 3px;
-    margin-bottom: 5px;
-    margin-left: 5px;
-}
+
 
 .footer {
     min-height: 100px;
