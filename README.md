@@ -5,4 +5,4 @@ In this exercise I will create a landing page from scratch using html and css fo
 
 Jojo's Bizarre Adventure was written by Hirohiko Araki and is property of Shueisha, I do not own any of it.
 
-live preview: https://liesdn.github.io/odin-landing-page/ 
+[Live preview.](https://liesdn.github.io/odin-landing-page/)
