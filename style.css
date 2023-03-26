@@ -165,6 +165,14 @@ h4 {
 .calltext {
     margin-top: 0;
 }
+
+.gitimg {
+    max-height: 30px;
+    padding: 3px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+
 .footer {
     min-height: 100px;
     align-items: center;
