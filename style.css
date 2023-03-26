@@ -110,12 +110,12 @@ img.imgawe {
 }
 
 img.gitimg {
-    max-height: 30px;
-    padding: 3px;
-    margin-bottom: 5px;
+    max-height: 25px;
+    padding: 0;
     margin-left: 5px;
     border: 0px;
     border-radius: 0;
+    position: absolute;
 }
 
 .quote {
@@ -175,10 +175,7 @@ h4 {
     margin-top: 0;
 }
 
-
-
 .footer {
     min-height: 100px;
     align-items: center;
-
 }
